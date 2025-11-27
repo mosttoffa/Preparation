@@ -19,7 +19,7 @@ Middleware Pipeline (মিডলওয়্যার পাইপলাইন)
 
 
 --------------------------------------------------------------------
-<b>SOLID Principle </b> 
+✅<b>SOLID Principle </b> 
 ১. S - Single Responsibility Principle (SRP) <br> 
 ধারণা: একটি ক্লাস বা মডিউলের পরিবর্তন হওয়ার কারণ (Reason for Change) একটিই হওয়া উচিত। <br> 
 ২. O - Open/Closed Principle (OCP): <br> 
@@ -44,7 +44,7 @@ Middleware Pipeline (মিডলওয়্যার পাইপলাইন)
 
 
 ----------------------------------------------------------------------------------------------------------
-<b>CI/CD (Continuous Integration/Continuous Delivery) </b> <br> 
+✅<b>CI/CD (Continuous Integration/Continuous Delivery) </b> <br> 
 CI/CD পাইপলাইন হলো আধুনিক সফটওয়্যার ডেলিভারির ভিত্তি। <br> 
 ১. Purpose (উদ্দেশ্য)
 ```
